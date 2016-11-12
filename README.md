@@ -1,6 +1,8 @@
 # KiCad-Footprints
 Some of my custom footprints for KiCad.
 
+-Sparkfun Trimpot / Trimmer Potentiometer - Footprint & 3D model
+
 
 =====INSTALLING=====
 
