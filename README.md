@@ -3,8 +3,11 @@ Some of my custom footprints for KiCad. Enjoy!
 Note that I don't usually use anything but colors for the 3D models. They'll look weird if you try and render them with other settings enabled.
 
 -Sparkfun Trimpot / Trimmer Potentiometer - Footprint & 3D model
+
 -Adafruit SPDT Slider Switch - Footprint & 3D model
+
 -Solder Jumper Pad(s) - Footprint
+
 
 =====INSTALLING=====
 
