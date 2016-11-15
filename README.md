@@ -12,6 +12,8 @@ Note that I don't usually use anything but colors for the 3D models. They'll loo
 
 -Small, Medium, and Heavy Gauge Wiring Pads - Footprint
 
+-8-pin DFN Package - Footprint & 3D model
+
 =====INSTALLING=====
 
 1. Copy the .wrl AND the .kicad_mod files for the footprints you need to a folder. This will be the "library" that you add to KiCad.
