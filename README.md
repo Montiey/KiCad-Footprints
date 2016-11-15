@@ -8,6 +8,9 @@ Note that I don't usually use anything but colors for the 3D models. They'll loo
 
 -Solder Jumper Pad(s) - Footprint
 
+-10, 15, 20mm Holes - Footprint
+
+-Small, Medium, and Heavy Gauge Wiring Pads - Footprint
 
 =====INSTALLING=====
 
