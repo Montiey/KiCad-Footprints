@@ -16,10 +16,7 @@ Note that I don't usually use anything but colors for the 3D models. They'll loo
 
 =====INSTALLING=====
 
-1. Copy the .wrl AND the .kicad_mod files for the footprints you need to a folder. This will be the "library" that you add to KiCad. Be sure to add .pretty to the name! KiCad will change it if you don't.
-
-Note: Move the .pretty folder to its final location (e.g. your Documents Library) BEFORE proceding.
-
+1. Copy the .wrl AND the .kicad_mod files for the footprints you need to a folder. This will be the "library" that you add to KiCad. Be sure to add .pretty to the name! KiCad will change it if you don't. NOTE: Move the .pretty folder to its final location (e.g. your Documents Library) BEFORE proceding.
 2. Open KiCad. 
 3. Tools > Footprint Editor
 4. Preferences > Footprint Libraries Manager
